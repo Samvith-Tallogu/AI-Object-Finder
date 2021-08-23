@@ -1,0 +1,23 @@
+#object_input{
+    width: 40%;
+}
+body{
+    background: url('background.jpg');
+    background-size: cover;
+}
+.heading{
+    width: 70%;
+    font-size: 22px !important;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 2.5;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    width: 85%;
+    border-radius: 10.6px;
+    margin-left: 100px;
+    margin-bottom: 11px;
+}
