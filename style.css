@@ -21,3 +21,8 @@ footer{
     margin-left: 100px;
     margin-bottom: 11px;
 }
+canvas{
+    margin-top: 80px;
+    border-radius: 20px;
+    border: 2px black;
+}
