@@ -1,10 +1,6 @@
 #object_input{
     width: 40%;
 }
-body{
-    background: url('background.jpg');
-    background-size: cover;
-}
 .heading{
     width: 70%;
     font-size: 22px !important;
